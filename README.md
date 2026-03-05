@@ -514,6 +514,12 @@ Health check endpoint for monitoring.
 ```
 
 ---
+## 🔮 Output Screenshots
+<img width="1102" height="770" alt="image" src="https://github.com/user-attachments/assets/9d7f9d09-7cba-46dd-9812-396da42c5f1c" />
+<img width="757" height="905" alt="image" src="https://github.com/user-attachments/assets/0489fc36-cf9a-4253-9ff6-a3e891ffaa13" />
+<img width="753" height="443" alt="image" src="https://github.com/user-attachments/assets/653b480d-f7b5-44bd-baf2-0c7393c975a3" />
+
+
 
 ## 🔮 Future Improvements
 
@@ -570,42 +576,4 @@ Health check endpoint for monitoring.
 
 ---
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 🙏 Acknowledgments
-
-- Dataset source: Campus Placement Dataset
-- UI Components: shadcn/ui
-- Icons: Lucide React
-- Animations: Framer Motion
-
----
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Setup Guide](SETUP_GUIDE.md) for detailed instructions
-2. Review the [Architecture Documentation](ARCHITECTURE.md)
-3. Visit the [API Documentation](http://localhost:8000/docs) when the server is running
-4. Open an issue on GitHub
-
----
-
-## ⭐ Show Your Support
-
-If you find this project helpful, please consider giving it a ⭐ on GitHub!
-
----
-
-<div align="center">
-
-**Built with ❤️ using React, FastAPI, and Scikit-learn**
-
-[⬆ Back to Top](#-placement-predictor-ai)
-
-</div>
